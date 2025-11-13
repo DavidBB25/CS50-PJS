@@ -1,0 +1,9 @@
+{% extends "quote.html" %}
+
+{% block title %}
+    Quoted
+{% endblock %}
+
+{% block main %}
+    <p>A share of {{ key.name }} ({{ key.symbol }}) costs {{ "$%.2f"|format(key.price) }}. </p>
+{% endblock %}
