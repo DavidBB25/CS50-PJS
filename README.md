@@ -61,4 +61,9 @@ C, Estrutura de Dados, Gerenciamento de Memória
 
 ### demo
 
-GIF
+    
+<p align="center">
+  <img src="demogifs/spellerdemo.gif" alt="Speller Demo Gif" width="600">
+</p>
+
+  
