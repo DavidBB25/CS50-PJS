@@ -13,7 +13,9 @@ Python, Processamento de dados, Algorítimos, File I/O (Entrada e Saída de Arqu
 
 ### demo
 
-GIF
+<p align="center">
+  <img src="demogifs/dnademo.gif" alt="DNA Demo Gif" width="600">
+</p>
 
 
 ## Filter
@@ -26,7 +28,9 @@ C, Algorítimos, 2D Arrays (Matrizes)
 
 ### demo
 
-GIF
+<p align="center">
+  <img src="demogifs/filterdemo.gif" alt="Filter Demo Gif" width="600">
+</p>
 
 
 ## Finance
@@ -39,7 +43,9 @@ Python, Flask, SQL, APIs, HTML
 
 ### demo
 
-GIF
+<p align="center">
+  <img src="demogifs/financedemo.gif" alt="Finance Demo Gif" width="600">
+</p>
 
 
 ## Movies
@@ -60,7 +66,6 @@ Uma aplicação onde o usuário escolhe um dicionário e um arquivo de texto par
 C, Estrutura de Dados, Gerenciamento de Memória
 
 ### demo
-
     
 <p align="center">
   <img src="demogifs/spellerdemo.gif" alt="Speller Demo Gif" width="600">
